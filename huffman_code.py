@@ -1,5 +1,4 @@
 import heapq
-from bitarray import bitarray
 import time
 import string
 import random
